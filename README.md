@@ -1,6 +1,6 @@
 # story_view [![Pub](https://img.shields.io/pub/v/story_view.svg)](https://pub.dev/packages/story_view)
 
-Story view for apps with stories.
+Story view for apps with stories
 
 ![story_view](assets/story_view_advance_logo.png)
 
