@@ -2,7 +2,7 @@
 
 Story view for apps with stories
 
-![story_view](assets/story_view_advance_logo.png)
+![story_view](assets/story_view_advance.png)
 
 <p float="left">
   <img src="https://i.ibb.co/Q8Wtw62/Screenshot-1584263003.png" width=200 />
