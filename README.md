@@ -1,8 +1,8 @@
-# story_view [![Pub](https://img.shields.io/pub/v/story_view.svg)](https://pub.dev/packages/story_view)
+# story_view_advance [![Pub](https://img.shields.io/pub/v/story_view.svg)](https://pub.dev/packages/story_view)
 
 Story view for apps with stories
 
-![story_view](assets/story_view_advance.png)
+![story_view_advance](assets/story_view_advance.png)
 
 <p float="left">
   <img src="https://i.ibb.co/Q8Wtw62/Screenshot-1584263003.png" width=200 />

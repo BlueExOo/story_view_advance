@@ -1,3 +1,5 @@
+## [0.1.0+1] - 9 Sep 2024.
+- changes in versions and domain name
 ## [0.1.0] - 7 Sep 2024.
 - added callback to receive videoPlayController
 - Bump dependencies to latest

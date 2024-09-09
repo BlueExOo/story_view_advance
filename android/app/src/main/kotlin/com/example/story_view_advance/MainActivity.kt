@@ -1,4 +1,4 @@
-package com.example.story_view_advance
+package com.garoono.story_view_advance
 
 import io.flutter.embedding.android.FlutterActivity
 
