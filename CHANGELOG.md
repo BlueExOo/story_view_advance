@@ -1,3 +1,5 @@
+## [0.2.0] - 12 Sep 2024.
+- new param to handle page-bar bg color
 ## [0.1.0+1] - 9 Sep 2024.
 - changes in versions and domain name
 ## [0.1.0] - 7 Sep 2024.
